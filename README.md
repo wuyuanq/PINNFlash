@@ -120,7 +120,7 @@ If this repository contributes to your research, please cite the above publicati
 
 ## License
 
-Intended for academic research. Please contact the author regarding commercial use.
+MIT license.
 
 ## Author
 
